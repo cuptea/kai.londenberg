@@ -1,6 +1,6 @@
 # Facts about Kai Londenberg
 
-We are former colleagues of Kai Londenberg from the Data:Lab Munich and we collected a bunch of facts about him, to show the world which valuable colleagues Kai Londenberg is. 
+We are former colleagues of Kai Londenberg from the Data:Lab Munich and we collected a bunch of facts about him, to show the world which valuable colleague Kai Londenberg is. 
 
 Thanks Kai, for working together with us!
 
