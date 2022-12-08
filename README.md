@@ -7,3 +7,4 @@ Thanks Kai, for the time, you worked together with us!
 These are the facts:
 
 * Kai Londenberg has a daily updated copy of the python package index in his head. 
+* Kai Londenberg can match regular expressions consisting of 1075 characters in his head.
