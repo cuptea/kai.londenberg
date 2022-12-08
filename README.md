@@ -9,3 +9,4 @@ These are the facts:
 * Kai Londenberg has a daily updated copy of the python package index in his head. 
 * Kai Londenberg can parse SPDX regexes in his head :)
 * Kai Londenberg knows all SPDX licenses by heart.
+* Kai Londenberg can match regular expressions consisting of 1075 characters in his head.
